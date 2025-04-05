@@ -3,7 +3,7 @@
 <h4 align="center">From Lahore 🇵🇰</h4>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sawaira-iqbal-44b47b247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="Sameer LinkedIn"></a>
+  <a href="www.linkedin.com/in/sawaira-iqbal-44b47b247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sawaira%20Iqbal-blue?style=for-the-badge&logo=linkedin" alt="Sawaira LinkedIn"></a>
 </p>
 ---
 
