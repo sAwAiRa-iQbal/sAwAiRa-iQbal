@@ -89,12 +89,12 @@
 
 <p align="center">
   <!-- Gmail -->
-  <a href="sameerf737@gmail.com">
+  <a href="sawaira.iqbal.ds@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <!-- WhatsApp -->
-  <a href="https://wa.me/+923370413873" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+92 337 0413873-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  <a href="https://wa.me/+92 3225392585" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+92 3225392585-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   <!-- Upwork -->
   <a href="https://www.upwork.com/freelancers/~01f633fc8f9afbc419" target="_blank">
