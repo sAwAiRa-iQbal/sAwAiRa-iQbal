@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hello, I'm Sameer Faisal!</h1>
-<h3 align="center">🌐 Full-Stack AI Developer | Code Innovator | Future Tech Leader 🚀</h3>
+<h1 align="center">👋 Hello, I'm Sawaira Iqbal!</h1>
+<h3 align="center">🌐 AI Developer | Code Innovator | Future Tech Leader 🚀</h3>
 <h4 align="center">From Lahore 🇵🇰</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-faisal-b62697233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="Sameer LinkedIn"></a>
+  <a href="www.linkedin.com/in/sawaira-iqbal-44b47b247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sameer%20Faisal-blue?style=for-the-badge&logo=linkedin" alt="Sameer LinkedIn"></a>
 </p>
 ---
 
 <div align="center">
-  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner that represents Sameer Faisal">
+  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner that represents Sawaira Iqbal">
 </div>
 
 <h2 align="center">💼 Tech Toolbox 🧰</h2>
@@ -49,7 +49,7 @@
 
 <h2 align="center">🔥 Crafting AI-Driven Solutions 🔥</h2>
 <p align="center">
-  As a driven <b>AI Developer Intern</b>, my journey to the cutting-edge tech scene has involved pioneering AI applications. I focus on transformative projects that leverage machine learning to solve real-world challenges.
+  As a driven <b>AI Developer</b>, my journey to the cutting-edge tech scene has involved pioneering AI applications. I focus on transformative projects that leverage machine learning to solve real-world challenges.
 </p>
 
 <p align="center">
