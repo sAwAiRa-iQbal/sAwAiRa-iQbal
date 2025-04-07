@@ -130,10 +130,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sameer051022?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-Here-blue?style=for-the-badge&logo=github" alt="Explore My Projects Badge"/>
+  <a href="https://github.com/sAwAiRa-iQbal?tab=repositories">
+    <img src="https://img.shields.io/badge/View-My_Repositories-blue?style=for-the-badge&logo=github" alt="View My Repositories"/>
   </a>
 </p>
+
 
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
