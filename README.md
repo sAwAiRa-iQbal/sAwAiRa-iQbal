@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Sawaira Iqbal!</h1>
-<h3 align="center">🌐 AI Developer | Code Innovator | Future Tech Leader 🚀</h3>
+<h3 align="center">🌐 AI Developer | Data Scientist | Future Tech Innovator 🚀</h3>
 <h4 align="center">From Lahore 🇵🇰</h4>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 <div align="center">
-  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner that represents Sawaira Iqbal">
+  <img src="WhatsApp Image 2025-03-27 at 7.31.14 PM.jpeg" alt="Banner representing Sawaira Iqbal">
 </div>
 
-<h2 align="center">💼 Tech Toolbox 🧰</h2>
+<h2 align="center">💼 My Tech Toolbox 🧰</h2>
 
 <p align="center">
   <!-- Artificial_Intelligence -->
@@ -28,41 +28,31 @@
   <img src="https://img.shields.io/badge/Computer_Vision-E34F26?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Badge"/>
   <!-- Statistics -->
   <img src="https://img.shields.io/badge/Statistics-DE3163?style=for-the-badge&logo=NumPy&logoColor=white" alt="Statistics Badge"/>
-</p>
-
-<p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <!-- Django -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/Web_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development Badge"/>
+  <!-- Business Development -->
+  <img src="https://img.shields.io/badge/Business_Development-FF6347?style=for-the-badge&logo=skillshare&logoColor=white" alt="Business Development Badge"/>
 </p>
 
 ---
 
 <h2 align="center">🔥 Crafting AI-Driven Solutions 🔥</h2>
 <p align="center">
-  As a driven <b>AI Developer</b>, my journey to the cutting-edge tech scene has involved pioneering AI applications. I focus on transformative projects that leverage machine learning to solve real-world challenges.
+  As a dedicated <b>AI Developer</b> and <b>Data Scientist</b>, I focus on transformative projects that leverage deep learning and machine learning to solve real-world challenges across industries. 
 </p>
 
 <p align="center">
-  Recently, I enhanced my practical skills as an <b>AI Developer Intern at Educist Testing Services</b>, applying AI technologies.
+  Recently, I enhanced my practical skills as an <b>AI Developer Intern at Educist Testing Services</b>, applying AI technologies to an AI-based standardized tests evaluation system for my Final Year Project.
 </p>
 
 ---
 
 <h3 align="center">🚀 I Specialize In</h3>
 <p align="center">
-  Developing cutting-edge AI solutions and machine learning models using technologies like <b>Python, TensorFlow, PyTorch,</b> and <b>Scikit-Learn</b>. My expertise extends to implementing NLP techniques and predictive analytics to derive actionable insights from data.
+  Developing advanced AI solutions and sophisticated machine learning models using technologies like <b>Python, TensorFlow, PyTorch,</b> and <b>Scikit-Learn</b>. I excel in implementing complex NLP techniques and predictive analytics to derive actionable insights from vast datasets.
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Sameer051022?tab=repositories">
@@ -74,13 +64,76 @@
 
 <h2 align="center">🌱 I’m currently learning...</h2>
 <p align="center">
-  <!-- Put things you are learning here -->
-  <code>AI Development</code>,
-  <code>Django</code>
-  <!-- Add more as you like -->
+  <code>Web Develpoment</code>,
+   <code>Power BI</code>,
+   <code>Generative AI</code>,
+  <code>Business Development Strategies</code>
 </p>
 
 ---
+<h2 align="center">🎯 My Key Projects</h2>
+
+<p align="center">
+  <strong>AI-Based Standardized Test Evaluation System</strong><br>
+  Developed an AI system to automate and enhance the accuracy of standardized test assessments like IELTS, TOEFL, and GMAT. Utilized cutting-edge machine learning algorithms to analyze and predict test outcomes, improving the reliability of test evaluations.<br>
+  <strong>Technologies:</strong> Python, Machine Learning, NLP<br>
+  <strong>Key Achievements:</strong> Enhanced test processing speed by 40%, reducing human error.
+</p>
+
+<p align="center">
+  <strong>Titanic Passenger Survival Classification</strong><br>
+  Built a predictive model for a UK client to classify Titanic passenger survival, achieving a remarkable 92% accuracy. Advanced visualizations and machine learning modeling provided deep insights into survival factors.<br>
+  <strong>Technologies:</strong> Python, Scikit-Learn, Matplotlib, Seaborn<br>
+  <strong>Key Achievements:</strong> Developed a model that outperformed existing benchmarks in predictive accuracy.
+</p>
+
+<p align="center">
+  <strong>Used Car Price Prediction Model</strong><br>
+  Created a model to predict used car prices with a 94% R2 score. Applied advanced data visualization and machine learning to provide accurate market value assessments.<br>
+  <strong>Technologies:</strong> Python, Random Forest, Matplotlib, Plotly<br>
+  <strong>Key Achievements:</strong> Enabled car dealers to set competitive pricing effectively.
+</p>
+
+<p align="center">
+  <strong>Lung Cancer CT Scan Analysis</strong><br>
+  Analyzed CT scans to detect lung cancer using deep learning, achieving over 95% accuracy. Fine-tuned pre-trained models to adapt to specific diagnostics needs.<br>
+  <strong>Technologies:</strong> Deep Learning, Python, TensorFlow, Keras<br>
+  <strong>Key Achievements:</strong> Improved early diagnosis rates significantly.
+</p>
+
+<p align="center">
+  <strong>Brain Tumor Classification</strong><br>
+  Engineered a system to classify brain tumors using image processing and machine learning, enhancing diagnostic precision.<br>
+  <strong>Technologies:</strong> Python, HOG, SVM, Random Forest<br>
+  <strong>Key Achievements:</strong> Achieved high accuracy in tumor classification, aiding in faster clinical decision-making.
+</p>
+
+<p align="center">
+  <strong>Loan Prediction System</strong><br>
+  Developed a model to predict loan approval, achieving an accuracy of 86%. This project helped financial institutions streamline their loan approval processes.<br>
+  <strong>Technologies:</strong> Python, Logistic Regression, Decision Trees<br>
+  <strong>Key Achievements:</strong> Reduced processing time and improved customer satisfaction.
+</p>
+
+<p align="center">
+  <strong>Supermarket Sales Analysis</strong><br>
+  Conducted a comprehensive analysis of supermarket sales to optimize product placement and pricing strategies using data visualization tools.<br>
+  <strong>Technologies:</strong> Python, Pandas, Matplotlib, Seaborn<br>
+  <strong>Key Achievements:</strong> Increased sales efficiency and profitability.
+</p>
+
+<p align="center">
+  <strong>Image Processing on Lung Dataset</strong><br>
+  Applied advanced image processing techniques to enhance features in lung dataset images, supporting medical research and treatment strategies.<br>
+  <strong>Technologies:</strong> Python, OpenCV<br>
+  <strong>Key Achievements:</strong> Enabled clearer imaging for improved analysis and diagnosis.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sameer051022?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-Here-blue?style=for-the-badge&logo=github" alt="Explore My Projects Badge"/>
+  </a>
+</p>
 
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
@@ -89,29 +142,5 @@
 
 <p align="center">
   <!-- Gmail -->
-  <a href="sawaira.iqbal.ds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/+92 3225392585" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+92 3225392585-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  <!-- Upwork -->
-  <a href="https://www.upwork.com/freelancers/~01f633fc8f9afbc419" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
-  </a>
-</p>
-<h3 align="center">About Me:</h3>
-<p align="center">
-  I am an AI Developer Intern, deeply engaged in the dynamic intersection of AI and machine learning. With a focus on real-world applications of <b>Python</b> and its libraries like <b>NumPy, Pandas,</b> and <b>Scipy</b>, I delve into complex problems from prompt engineering to sentiment analysis. I specialize in developing robust ML models and advanced NLP techniques, using these to extract meaningful insights from large datasets.
-</p>
-
-<p align="center">
-  Currently, I am enhancing my skills more as an <b>AI Developer at DevWave</b>, applying advanced AI methodologies to develop software solutions that are not only effective but also scalable.
-</p>
-
-<p align="center">
-  I'm committed to leveraging AI to not only solve complex challenges but also to transform how we understand and interact with data.
-  <br>
-  <span style="font-size:2em;"><strong>Transforming data into decisions, one model at a time. 🚀</strong></span>
-</p>
+  <a href="mailto:sawaira.iqbal.ds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt
